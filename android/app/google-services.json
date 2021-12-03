@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244691177486",
+    "project_id": "foodlocker-751c3",
+    "storage_bucket": "foodlocker-751c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244691177486:android:eef272683962e7a15f2c5f",
+        "android_client_info": {
+          "package_name": "com.example.foodlocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244691177486-cmgmqbaf7mbmkkumkufhe2kt2uoc73cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpnBDZKwea8QX_7ootwgiHtO2nhrcKaYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244691177486-cmgmqbaf7mbmkkumkufhe2kt2uoc73cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
